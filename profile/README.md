@@ -46,9 +46,9 @@ Packages and pipelines implementing statistical models, association testing, and
 
 Lightweight tools and utilities for focused computations, summaries, or domain-specific calculations.
 
-- [`tool-name` – Jerry](https://github.com/ORG/tool-name)
+- [`CFRD Prediction Model` – Patient-specific CFRD risk to guide monitoring and treatment https://predictcfrd.research.sickkids.ca/](https://doi.org/10.1038/s41436-020-01073-x)
 
-- [`tool-name` – Sangook](https://github.com/ORG/tool-name)
+- [`Canadian FEV1 CF-Specific Percentiles` – https://cfpercentile.research.sickkids.ca/](https://doi.org/10.1136/thoraxjnl-2017-210899)
 
 ---
 
@@ -56,7 +56,7 @@ Lightweight tools and utilities for focused computations, summaries, or domain-s
 
 Curated datasets, reference materials, and supporting resources used across Strug Lab projects.
 
-- [`tool-name` – summary stats, COPD, ...](https://github.com/ORG/tool-name)
+- [`tool-name` – MI summary stats, CGMC meta gw, psa, biojume, COPD, ...](https://github.com/ORG/tool-name)
 
 ---
 
